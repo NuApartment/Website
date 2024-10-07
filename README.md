@@ -7,17 +7,24 @@ This repository contains the source code and assets for the revamped NuApartment
 
 # Key Features
 
-Responsive design: The website is optimized for various screen sizes and devices, ensuring a seamless experience across all platforms.
-Enhanced homepage: A captivating hero image highlights the apartments, while clear navigation and a strong call to action encourage bookings.
-Detailed property listings: Each property listing includes high-quality images, floor plans, and detailed descriptions.
-Virtual tours: Interactive 360-degree views of the apartments provide a realistic experience for potential renters.
-Simplified booking process: A streamlined online booking system makes it easy for renters to reserve their desired apartment.
-Testimonials and reviews: Positive feedback from previous tenants builds trust and credibility.
-Neighborhood information: Details about the surrounding area, including local attractions, amenities, and transportation options.
-Blog: A platform for sharing helpful content related to apartment living, local events, and lifestyle tips.
+**Responsive design:** The website is optimized for various screen sizes and devices, ensuring a seamless experience across all platforms.
+
+**Enhanced homepage:** A captivating hero image highlights the apartments, while clear navigation and a strong call to action encourage bookings.
+
+**Detailed property listings:** Each property listing includes high-quality images, floor plans, and detailed descriptions.
+
+**Simplified booking process:** A streamlined online booking system makes it easy for renters to reserve their desired apartment.
+
+**Testimonials and reviews:** Positive feedback from previous tenants builds trust and credibility.
+
+**Neighborhood information:** Details about the surrounding area, including local attractions, amenities, and transportation options.
+
+**Blog:** A platform for sharing helpful content related to apartment living, local events, and lifestyle tips.
 Contact information: Clear and accessible contact information, including phone numbers, email addresses, and social media links.
 Technologies
 
-Frontend: React, HTML, CSS, JavaScript
-Backend: (Optional, if applicable) Node.js, Express.js, MongoDB
-Design system: (Optional, if applicable) A well-defined design system for consistent styling and components.
+**Frontend:** React, HTML, CSS, JavaScript
+
+**Backend:** Node.js, Express.js, MongoDB
+
+**Design system:** A well-defined design system for consistent styling and components.
